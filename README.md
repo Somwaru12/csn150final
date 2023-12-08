@@ -19,5 +19,5 @@ This is for my final project it follows Risineks documentation and allows the es
 9. The ESP32 now acts as a router for testing you would need to go to 192.168.4.1 
 10. Tick which wifi connection you want to test and what attack you want to carry out and start during its attack time you are unable to connect to the esp
 ###### Problems 
-One of the problems I had was the pip install of the esp32 was not working i just had to change an option in uninstall or change program go to python and modify and check off add python to environment variables. 
-the second issue I had was the code I had to remove the .py from esptool for it to start installing to the ESP 
+1. One of the problems I had was the pip install of the esp32 was not working i just had to change an option in uninstall or change program then go to python and modify and check off add python to environment variables. 
+2. The second issue I had was the code I had to remove the .py from esptool for it to start installing to the ESP 
